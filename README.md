@@ -18,6 +18,8 @@
   ```
 - Then app will get started in the default browser. [SEE SCREENSHOTS]
 
+## *Homepage*
+
 <br>--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![tartpage](https://user-images.githubusercontent.com/73923245/209472333-89c07c20-4668-4fd4-b260-78e028ebd1a6.JPG)
