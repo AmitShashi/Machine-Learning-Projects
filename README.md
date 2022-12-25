@@ -11,6 +11,7 @@
     [*] pip install pillow
     [*] pip install numpy
     [*] pip install tensorflow
+    </sub>
 ```
     4.
     <sub>gh 
