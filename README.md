@@ -3,7 +3,7 @@
 
 ## *How to use this project*
 - Download this project repo.
-- Install python IDE. [Ex-PyCharm]
+- Install python IDE. [e.g. - PyCharm]
 - Open repo in IDE.
 - Install following requirements [type below commands in IDE terminal]
   ```  
