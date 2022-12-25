@@ -1,5 +1,4 @@
 # Machine-Learning-Projects (currently editing)
-<sub>fdgfdgfdgdg</sub>
 **How to use this project**
 
     1. Download this project repo.
@@ -12,6 +11,3 @@
     [*] pip install numpy
     [*] pip install tensorflow
     </sub>
-```
-    4.
-    <sub>gh 
