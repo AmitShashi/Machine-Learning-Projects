@@ -1,7 +1,4 @@
-
-# Machine-Learning-Projects (currently editing)
-
-## *How to use this project*
+# *How to use this project*
 - Download this project repo.
 - Install python IDE. [e.g. - PyCharm]
 - Open repo in IDE.
