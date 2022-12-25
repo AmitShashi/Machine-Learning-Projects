@@ -17,14 +17,14 @@
     streamlit run index.py
   ```
 - Then app will get started in the default browser. [SEE SCREENSHOTS]
-- SCREENSHOT 1
+
 ![tartpage](https://user-images.githubusercontent.com/73923245/209472333-89c07c20-4668-4fd4-b260-78e028ebd1a6.JPG)
 <br>
-- SCREENSHOT 2
+
 ![test early](https://user-images.githubusercontent.com/73923245/209472341-635e7028-16e0-4c2e-8c76-97a8a6b65dbc.JPG)
 <br>
-- SCREENSHOT 3
+
 ![test healthy](https://user-images.githubusercontent.com/73923245/209472343-b43bfda1-4a20-4580-99d8-7e12361f4769.JPG)
 <br>
-- SCREENSHOT 4
+
 ![test late](https://user-images.githubusercontent.com/73923245/209472345-5b045b42-e384-446e-aafb-249702dc871a.JPG)
