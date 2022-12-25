@@ -10,8 +10,8 @@
         [*] pip install numpy
         [*] pip install tensorflow
     4. Run following in IDE Terminal.
-    ```
+ ```
     streamlit run index.py
-    ```
+ ```
     5. Then app will get started in the default browser. [SEE SCREENSHOTS]
     
